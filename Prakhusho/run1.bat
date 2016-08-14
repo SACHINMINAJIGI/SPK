@@ -1,0 +1,1 @@
+java -cp D:\Selenium_Jenkins\Prakhusho\libs\*;D:\Selenium_Jenkins\Prakhusho\bin org.testng.TestNG testng.xml

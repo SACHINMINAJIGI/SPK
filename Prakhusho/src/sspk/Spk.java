@@ -8,7 +8,7 @@ public class Spk {
 
 	@Test
 	public static void method1(){
-
+		System.out.println("method1");
 		WebDriver d = new FirefoxDriver();
 		d.get("https://google.co.in");
 		d.manage().window().maximize();
@@ -17,7 +17,7 @@ public class Spk {
 	}
 	@Test
 	public static void method2(){
-
+		System.out.println("method2");
 		WebDriver d = new FirefoxDriver();
 		d.get("https://google.co.in");
 		d.manage().window().maximize();

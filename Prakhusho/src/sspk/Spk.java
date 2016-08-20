@@ -13,10 +13,13 @@ public class Spk {
 		d.get("https://google.co.in");
 		d.manage().window().maximize();
 		System.out.println("SPK");
+		System.out.println("");
 		d.quit();
+		
 	}
 	@Test
 	public static void method2(){
+		
 		System.out.println("method2");
 		WebDriver d = new FirefoxDriver();
 		d.get("https://google.co.in");

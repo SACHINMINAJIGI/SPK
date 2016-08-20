@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29086" started-at="2016-07-09T14:28:13Z" finished-at="2016-07-09T14:28:42Z">
+  <suite name="Default suite" duration-ms="59584" started-at="2016-08-14T18:17:57Z" finished-at="2016-08-14T18:18:57Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="29086" started-at="2016-07-09T14:28:13Z" finished-at="2016-07-09T14:28:42Z">
+    <test name="Default test" duration-ms="59584" started-at="2016-08-14T18:17:57Z" finished-at="2016-08-14T18:18:57Z">
       <class name="sspk.Spk">
-        <test-method status="PASS" signature="method1()[pri:0, instance:sspk.Spk@1a57a3b]" name="method1" duration-ms="14491" started-at="2016-07-09T19:58:13Z" finished-at="2016-07-09T19:58:28Z">
+        <test-method status="PASS" signature="method1()[pri:0, instance:sspk.Spk@1a57a3b]" name="method1" duration-ms="32016" started-at="2016-08-14T23:47:57Z" finished-at="2016-08-14T23:48:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method1 -->
-        <test-method status="PASS" signature="method2()[pri:0, instance:sspk.Spk@1a57a3b]" name="method2" duration-ms="14576" started-at="2016-07-09T19:58:28Z" finished-at="2016-07-09T19:58:42Z">
+        <test-method status="PASS" signature="method2()[pri:0, instance:sspk.Spk@1a57a3b]" name="method2" duration-ms="27545" started-at="2016-08-14T23:48:29Z" finished-at="2016-08-14T23:48:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method2 -->
       </class> <!-- sspk.Spk -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
